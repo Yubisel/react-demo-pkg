@@ -1,0 +1,11 @@
+dist
+.babelrc
+.storybook
+.gitignore
+.prettierrc
+rollup.config.js
+tsconfig.json
+
+!/src
+/src/*
+!/src/pkg
