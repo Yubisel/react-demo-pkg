@@ -1,7 +1,7 @@
 // import React from 'react';
 import logo from './logo.svg';
 import './App.scss';
-import IconPicker from "./pkg";
+import Counter from "./pkg";
 
 function App() {
   return (
@@ -19,7 +19,7 @@ function App() {
         >
           Learn React
         </a>
-      <IconPicker />
+      <Counter />
       </header>
     </div>
   );

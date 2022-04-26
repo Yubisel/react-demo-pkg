@@ -1,9 +1,7 @@
 import React, {useState} from "react";
 import "./styles.scss";
 
-// https://www.npmjs.com/package/rollup-plugin-scss
-
-const IconPicker: React.FC = () => {
+const Counter: React.FC = () => {
   const [value, setValue] = useState(0);
   return <div>
       Counter: {value}
@@ -12,4 +10,4 @@ const IconPicker: React.FC = () => {
     </div>;
 }
 
-export default IconPicker;
+export default Counter;

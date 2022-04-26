@@ -1,3 +1,3 @@
-import IconPicker from "./icon-picker";
+import Counter from "./Counter";
 
-export default IconPicker;
+export default Counter;
