@@ -1,6 +1,6 @@
 {
   "name": "react-demo-pkg",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/Yubisel/react-demo-pkg#readme",
   "main": "dist/index.js",
   "scripts": {
@@ -14,8 +14,8 @@
     "type": "git",
     "url": "git+https://github.com/Yubisel/react-demo-pkg.git"
   },
-  "author": "Cory McAboy",
-  "license": "ISC",
+  "author": "Ing. Yubisel Vega Alvarez",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Yubisel/react-demo-pkg/issues"
   },
